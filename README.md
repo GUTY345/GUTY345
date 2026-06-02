@@ -4,33 +4,21 @@
 
 ### "Mobile Developer & System Hacker | Turning Complex Logic into Seamless Experiences"
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzVqbm50ZW50JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/ge91G5s5S4J4Q/giphy.gif" width="200" />
-</p>
-
 ---
 
 ### 🛠 Languages and Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  
-  <br>
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
   <br>
-
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <br>
-
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -39,8 +27,6 @@
 ---
 
 ### 💻 Technical Highlights
-*โปรเจกต์ที่โชว์ความเป็นตัวคุณ*
-
 - 🍎 **System Low-level Expert:** มีส่วนร่วมในโปรเจกต์ *OpenCore Legacy Patcher (T2)* สนุกกับการปลดล็อกขีดจำกัด Hardware
 - 📱 **Mobile Development:** พัฒนา Flutter App โดยเน้นโครงสร้างที่เสถียรและ UI ที่เป็นมิตรต่อผู้ใช้งาน
 - ⚙️ **Debugging:** เชี่ยวชาญการวิเคราะห์ระบบและแก้ไขบั๊กที่ซับซ้อน
@@ -49,7 +35,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GUTY345&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GUTY345&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
 
 ---
