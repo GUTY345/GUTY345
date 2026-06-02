@@ -2,7 +2,7 @@
 
 # สวัสดีครับ! ผมเมธาชัย (บอม) 👋
 
-### "Mobile Developer & System Hacker | Turning Complex Logic into Seamless Experiences"
+### "Mobile Developer/Web Developer & System Hacker | Turning Complex Logic into Seamless Experiences"
 
 ---
 
@@ -29,14 +29,8 @@
 ### 💻 Technical Highlights
 - 🍎 **System Low-level Expert:** มีส่วนร่วมในโปรเจกต์ *OpenCore Legacy Patcher (T2)* สนุกกับการปลดล็อกขีดจำกัด Hardware
 - 📱 **Mobile Development:** พัฒนา Flutter App โดยเน้นโครงสร้างที่เสถียรและ UI ที่เป็นมิตรต่อผู้ใช้งาน
-- ⚙️ **Debugging:** เชี่ยวชาญการวิเคราะห์ระบบและแก้ไขบั๊กที่ซับซ้อน
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GUTY345&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
+- 📱 **Web Development:** พัฒนาWebsite ที่ตรงตามความต้องการ 
+- ⚙️ **Porting:** ผมได้ทดลองและศึกษาตัวแปลภาษาจาก X86 แปลมาเป็น ARM64 Native Project Orbis Console
 
 ---
 
