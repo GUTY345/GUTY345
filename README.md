@@ -30,7 +30,7 @@
 - 🍎 **System Low-level Expert:** มีส่วนร่วมในโปรเจกต์ *OpenCore Legacy Patcher (T2)* สนุกกับการปลดล็อกขีดจำกัด Hardware
 - 📱 **Mobile Development:** พัฒนา Flutter App โดยเน้นโครงสร้างที่เสถียรและ UI ที่เป็นมิตรต่อผู้ใช้งาน
 - 📱 **Web Development:** พัฒนาWebsite ที่ตรงตามความต้องการ 
-- ⚙️ **Porting:** ผมได้ทดลองและศึกษาตัวแปลภาษาจาก X86 แปลมาเป็น ARM64 Native Project Orbis Console
+- ⚙️ **Porting:** X86 แปลมาเป็น ARM64 Native Project Orbis Console
 
 ---
 
